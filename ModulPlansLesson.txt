@@ -1,0 +1,122 @@
+C# / .NET FULL LEARNING ROADMAP
+==============================
+
+MODULE 01 – BEGINNER FOUNDATIONS
+Boshlang‘ich asoslar
+-------------------
+Lesson 01 – Console Basics
+Lesson 02 – Variables
+Lesson 03 – Data Types
+Lesson 04 – Operators
+Lesson 05 – If / Else
+Lesson 06 – Switch
+Lesson 07 – Loops (for)
+Lesson 08 – Loops (while, foreach)
+Lesson 09 – User Input (Console.ReadLine)
+Lesson 10 – Type Conversion
+Lesson 11 – Debugging Basics
+Mini Project 01 – Console Calculator
+
+
+MODULE 02 – CORE C#
+C# ning asosiy mexanizmlari
+-------------------------
+Lesson 01 – Methods Basics
+Lesson 02 – Void vs Return
+Lesson 03 – Method Overloading
+Lesson 04 – Scope (Local / Global)
+Lesson 05 – String Methods
+Lesson 06 – DateTime
+Lesson 07 – Try / Catch
+Lesson 08 – File Basics
+Mini Project 02 – Notes App (Console)
+
+
+MODULE 03 – OBJECT-ORIENTED PROGRAMMING (OOP)
+Obyektga yo‘naltirilgan dasturlash
+--------------------------------
+Lesson 01 – Class & Object
+Lesson 02 – Properties
+Lesson 03 – Constructors
+Lesson 04 – Encapsulation
+Lesson 05 – Inheritance
+Lesson 06 – Polymorphism
+Lesson 07 – Abstract Class
+Lesson 08 – Interface
+Lesson 09 – SOLID (Intro)
+Mini Project 03 – Student Management System
+
+
+MODULE 04 – COLLECTIONS & LINQ
+To‘plamlar va LINQ
+-----------------
+Lesson 01 – Arrays
+Lesson 02 – List
+Lesson 03 – Dictionary
+Lesson 04 – Queue / Stack
+Lesson 05 – LINQ Select / Where
+Lesson 06 – LINQ OrderBy / GroupBy
+Lesson 07 – LINQ Real Tasks
+Mini Project 04 – Product Catalog
+
+
+MODULE 05 – .NET FOUNDATIONS
+.NET platformasi asoslari
+------------------------
+Lesson 01 – What is .NET
+Lesson 02 – Project Structure (.csproj)
+Lesson 03 – NuGet Packages
+Lesson 04 – Configuration (appsettings)
+Lesson 05 – Logging Basics
+Lesson 06 – Dependency Injection (Intro)
+
+
+MODULE 06 – ASP.NET CORE WEB API
+Backend asoslari
+----------------
+Lesson 01 – Create Web API
+Lesson 02 – Controllers & Routing
+Lesson 03 – DTO
+Lesson 04 – CRUD (InMemory)
+Lesson 05 – Status Codes
+Lesson 06 – Middleware
+Lesson 07 – Swagger
+Mini Project 06 – Todo API
+
+
+MODULE 07 – DATABASE & EF CORE
+Ma’lumotlar bazasi
+------------------
+Lesson 01 – SQL Basics
+Lesson 02 – EF Core Setup
+Lesson 03 – Migrations
+Lesson 04 – Relationships
+Lesson 05 – Repository Pattern
+Lesson 06 – Pagination & Filtering
+Mini Project 07 – API with Database
+
+
+MODULE 08 – AUTHENTICATION & VALIDATION
+Xavfsizlik va tekshiruv
+----------------------
+Lesson 01 – Validation
+Lesson 02 – JWT Authentication
+Lesson 03 – Role-based Authorization
+Lesson 04 – Security Basics
+
+
+MODULE 09 – TESTING & CLEAN CODE
+Kod sifati
+----------
+Lesson 01 – Clean Code Rules
+Lesson 02 – Unit Testing
+Lesson 03 – Mocking
+Lesson 04 – Refactoring
+
+
+MODULE 10 – PROJECTS (PORTFOLIO)
+Real loyihalar
+--------------
+Project 01 – Mini CRM API
+Project 02 – Telegram Bot Backend
+Project 03 – E-commerce Lite
