@@ -19,6 +19,8 @@
             Console.WriteLine("Height:" +height);
 
 
+
+
             //Independet Work "Student"
 
             string StudentName = "Aziz";
@@ -49,23 +51,6 @@
             Console.WriteLine();
 
             Console.WriteLine("Student Phone Number:" +StudentPhoneNumber);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -115,6 +100,7 @@
             Console.WriteLine("Sister Salary: " + SisterSalary);
 
 
+            
 
             //static void PrintPerson(string role, string name, int age, bool works, double salary)
             //{
