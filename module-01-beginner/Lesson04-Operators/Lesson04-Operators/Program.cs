@@ -139,12 +139,11 @@
 
 
 
-
             int score = 78;
 
             if (score >= 90)
             {
-                Console.WriteLine("Excellen");
+                Console.WriteLine("Excellent");
             }
 
             else if (score >= 70)
